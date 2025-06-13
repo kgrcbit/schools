@@ -1,5 +1,5 @@
 import React from 'react';
-import { MapPin, School, Route, Info } from 'lucide-react';
+import { MapPin, School, Router as Route, Info } from 'lucide-react';
 import { Village } from '../types';
 
 interface VillageTableProps {
